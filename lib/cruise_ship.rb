@@ -12,3 +12,4 @@ def select_winner(passengers)
       puts "#{key}: #{value}"
   end
 end
+end
